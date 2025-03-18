@@ -1,4 +1,4 @@
-module github.com/tomphttp/bare-server-go
+module github.com/wuli07101/bare-server-go
 
 go 1.20
 
